@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "curso-local": {
+      "command": "node",
+      "args": [
+        "C:\\Curso\\mcp\\server.mjs"
+      ]
+    }
+  }
+}
