@@ -1,4 +1,11 @@
 <!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+- Project stack: React + TypeScript.
+- Use strict typing consistently.
+- Prioritize clean code and maintainable implementations.
+- Never hardcode secrets, API keys, tokens, or credentials.
+- Be concise when writing results.
+- Do not explain intermediate steps unless explicitly requested.
+- Focus on action and implementation, not narrative.
 - [ ] Verify that the copilot-instructions.md file in the .github directory is created.
 
 - [ ] Clarify Project Requirements
